@@ -17,9 +17,17 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
     * [styled components](https://github.com/vercel/next.js/tree/canary/examples/with-styled-components)
     * [emotion](https://github.com/vercel/next.js/tree/canary/examples/with-emotion)
  
+### Images
+
+ * [about next/image](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
+
+" It's good practice to set the width and height of your images to avoid layout shift, these should be an aspect ratio identical to the source image."
+
+ * [avif](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#avif_image)
+ * [webp](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#webp)
 
 ### Fonts
- * [Google Font Subsets](https://fonts.google.com/knowledge/glossary/subsetting)
+ * [Google Font](https://fonts.google.com/) [Subsets](https://fonts.google.com/knowledge/glossary/subsetting)
 
 # Environment
 
