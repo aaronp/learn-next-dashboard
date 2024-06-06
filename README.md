@@ -21,7 +21,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # Routing
 
  * [route groups](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
- 
+ * [page components' params and searchParams](https://nextjs.org/docs/app/api-reference/file-conventions/page)
  
 
 ## Metrics
