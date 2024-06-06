@@ -15,6 +15,14 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
  * (Tremor)[https://www.tremor.so/]
  * (chartjs)[https://www.chartjs.org/]
 
+## Data / Streaming
+ * [streaming](https://nextjs.org/learn/dashboard-app/streaming)
+
+# Routing
+
+ * [route groups](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
+ 
+ 
 
 ## Metrics
  * [Cumulative Layout Shift](https://web.dev/articles/cls)
