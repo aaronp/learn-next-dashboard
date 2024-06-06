@@ -6,6 +6,16 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 # Learn More
 
+## Vercel
+
+    * [postgres](https://vercel.com/docs/storage/vercel-postgres/sdk)
+
+# Data Visualisation
+ * (Visx)[https://airbnb.io/visx/]
+ * (Tremor)[https://www.tremor.so/]
+ * (chartjs)[https://www.chartjs.org/]
+
+
 ## Metrics
  * [Cumulative Layout Shift](https://web.dev/articles/cls)
 
