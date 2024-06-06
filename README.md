@@ -18,6 +18,11 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ## Data / Streaming
  * [streaming](https://nextjs.org/learn/dashboard-app/streaming)
 
+## Accessibility
+ * [learn more](https://web.dev/learn/accessibility/)
+ * [here](https://nextjs.org/learn/dashboard-app/improving-accessibility)
+ 
+
 ## Server Components
 
  "Security is a top priority for web applications, as they can be vulnerable to various threats. This is where Server Actions come in. They offer an effective security solution, protecting against different types of attacks, securing your data, and ensuring authorized access. Server Actions achieve this through techniques like POST requests, encrypted closures, strict input checks, error message hashing, and host restrictions, all working together to significantly enhance your app's safety."
