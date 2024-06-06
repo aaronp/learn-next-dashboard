@@ -23,7 +23,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
  "Security is a top priority for web applications, as they can be vulnerable to various threats. This is where Server Actions come in. They offer an effective security solution, protecting against different types of attacks, securing your data, and ensuring authorized access. Server Actions achieve this through techniques like POST requests, encrypted closures, strict input checks, error message hashing, and host restrictions, all working together to significantly enhance your app's safety."
  
  * [here](https://nextjs.org/learn/dashboard-app/mutating-data)
-  * [form data](https://developer.mozilla.org/en-US/docs/Web/API/FormData) [methods](https://developer.mozilla.org/en-US/docs/Web/API/FormData/append) and [zod](https://zod.dev/) for schema validation
+ * [form data](https://developer.mozilla.org/en-US/docs/Web/API/FormData) [methods](https://developer.mozilla.org/en-US/docs/Web/API/FormData/append)
+ * [zod](https://zod.dev/) for schema validation
+ * further [security reading](https://nextjs.org/blog/security-nextjs-server-components-actions)
  * [caching](https://nextjs.org/docs/app/building-your-application/caching)
 
 # Routing
