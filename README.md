@@ -6,11 +6,12 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 # Learn More
 
+
 ## Vercel
 
     * [postgres](https://vercel.com/docs/storage/vercel-postgres/sdk)
 
-# Data Visualisation
+## Data Visualisation
  * (Visx)[https://airbnb.io/visx/]
  * (Tremor)[https://www.tremor.so/]
  * (chartjs)[https://www.chartjs.org/]
@@ -22,6 +23,12 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
  * [learn more](https://web.dev/learn/accessibility/)
  * [here](https://nextjs.org/learn/dashboard-app/improving-accessibility)
  
+
+## Authentication
+ 
+  * see [here](https://nextjs.org/learn/dashboard-app/adding-authentication) for next-auth
+  * [addint auth providers](https://nextjs.org/learn/dashboard-app/adding-authentication#adding-the-credentials-provider)
+  * [OAuth provideres](https://authjs.dev/getting-started/authentication/oauth)
 
 ## Server Components
 
